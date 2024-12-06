@@ -1,7 +1,5 @@
 # TravelMemory-Deployment-Guide
 
-# TravelMemory-Deployment-Guide
-
 # Introduction
 This guide provides step-by-step instructions to deploy the TravelMemory application (MERN stack) on AWS EC2 instances with a load balancer and Cloudflare integration. The backend runs on Node.js with MongoDB, and the frontend is built using React.
 
